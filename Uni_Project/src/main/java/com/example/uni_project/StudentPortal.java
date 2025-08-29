@@ -357,8 +357,8 @@ public class StudentPortal {
 }
 //showing attendance of particular student
     String url="jdbc:mysql://localhost:3306/university_system";
-    String username="root";
-    String password="0348jav.";
+    String username=//ur username
+    String password=//ur password
 
 BorderPane Student_attendance(String selected_code,String selected_course){
 
