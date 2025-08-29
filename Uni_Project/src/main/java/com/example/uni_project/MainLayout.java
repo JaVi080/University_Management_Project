@@ -113,8 +113,8 @@ public class MainLayout {
         button.setSpacing(20);
 
         String url="jdbc:mysql://localhost:3306/university_system";
-        String username_db="root";
-        String password_db="0348jav.";
+        String username_db=//ur username
+        String password_db=//ur password
         // Set the Login button's action
         login.setOnAction(e -> {
             try {
