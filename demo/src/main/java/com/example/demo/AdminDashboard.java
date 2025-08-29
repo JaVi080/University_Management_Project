@@ -291,8 +291,8 @@ public class AdminDashboard {
     }
         //Connection with database
         String url="jdbc:mysql://localhost:3306/university_system";
-        String username="root";
-        String password_sql="0348jav.";
+        String username=//ur username
+        String password_sql=//ur password
 
     VBox Add_Course() {
 
